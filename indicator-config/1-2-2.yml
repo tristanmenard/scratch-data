@@ -22,11 +22,21 @@ graph_titles: []
 graph_type: line
 indicator_name: global_indicators.1-2-2-title
 indicator_number: '1.2.2'
-national_geographical_coverage: ''
+national_geographical_coverage: 'Canada'
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+# auto_progress_calculation: true
+# progress_calculation_options:
+# - unit: Unit1
+#   direction: positive
+#   target: 3
+#   target_year: 2016
+# - unit: Unit2
+#   direction: positive
+#   target: 3
+#   target_year: 2016

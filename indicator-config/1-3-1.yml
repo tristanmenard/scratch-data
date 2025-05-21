@@ -30,10 +30,10 @@ reporting_status: complete
 sort: ''
 standalone: false
 tags: []
-# auto_progress_calculation: true
-# progress_calculation_options:
-# - series: Series2
-#   unit: Unit2
-#   direction: positive
-#   target: 3
-#   target_year: 2016
+auto_progress_calculation: true
+progress_calculation_options:
+- series: Series2
+  unit: Unit2
+  direction: positive
+  target: 3
+  target_year: 2016

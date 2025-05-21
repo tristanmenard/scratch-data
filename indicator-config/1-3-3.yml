@@ -34,12 +34,12 @@ reporting_status: complete
 sort: ''
 standalone: false
 tags: []
-# auto_progress_calculation: true
-# progress_calculation_options:
-# - unit: Unit2
-#   disaggregation:
-#   - field: Group
-#     value: B
-#   direction: positive
-#   target: 3
-#   target_year: 2016
+auto_progress_calculation: true
+progress_calculation_options:
+- unit: Unit2
+  disaggregation:
+  - field: Group
+    value: B
+  direction: positive
+  target: 3
+  target_year: 2016

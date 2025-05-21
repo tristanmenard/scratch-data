@@ -30,17 +30,17 @@ reporting_status: complete
 sort: ''
 standalone: false
 tags: []
-# auto_progress_calculation: true
-# progress_calculation_options:
-# - disaggregation: 
-#   - field: Group
-#     value: A
-#   target: 2
-#   target_year: 2030
-#   direction: positive
-# - disaggregation:
-#   - field: Group
-#     value: B
-#   target: 2
-#   target_year: 2030
-#   direction: positive
+auto_progress_calculation: true
+progress_calculation_options:
+- disaggregation: 
+  - field: Group
+    value: A
+  target: 2
+  target_year: 2030
+  direction: positive
+- disaggregation:
+  - field: Group
+    value: B
+  target: 2
+  target_year: 2030
+  direction: positive

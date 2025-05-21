@@ -30,5 +30,5 @@ reporting_status: complete
 sort: ''
 standalone: false
 tags: []
-# auto_progress_calculation: false
-# progress_status: 'target_achieved'
+auto_progress_calculation: false
+progress_status: 'target_achieved'

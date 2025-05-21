@@ -30,7 +30,7 @@ reporting_status: complete
 sort: ''
 standalone: false
 tags: []
-# auto_progress_calculation: true
-# progress_calculation_options:
-# - unit: Unit1
-#   direction: positive
+auto_progress_calculation: true
+progress_calculation_options:
+- unit: Unit1
+  direction: positive

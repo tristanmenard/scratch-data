@@ -31,4 +31,4 @@ sort: ''
 standalone: false
 tags: []
 auto_progress_calculation: false
-progress_status: 'target_achieved'
+progress_status: status.status_test
